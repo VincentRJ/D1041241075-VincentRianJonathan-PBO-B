@@ -14,4 +14,4 @@ public class LatihanTabelPerkalian {
 
 // Nama : Vincent Rian Jonathan
 // NIM : D1041241075
-// Hari/Tanggal : Senin/25-02-2026
+// Hari/Tanggal : Rabu/25-02-2026
