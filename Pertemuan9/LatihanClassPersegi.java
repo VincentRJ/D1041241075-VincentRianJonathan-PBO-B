@@ -21,7 +21,7 @@ class Persegi{
     System.out.println("");
     System.out.println("Sisi     : " + sisi + " cm");
     System.out.println("");
-    System.out.println("Luas     : " + luas + " cm2²");
+    System.out.println("Luas     : " + luas + " cm²");
     System.out.println("");
     System.out.println("Keliling : " + keliling + " cm");
     System.out.println("");
