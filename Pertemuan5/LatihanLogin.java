@@ -24,3 +24,7 @@ public class LatihanLogin {
     }
   }
 }
+
+// Nama : Vincent Rian Jonathan
+// NIM : D1041241075
+// Hari/Tanggal : Jumat/6 Maret 2026
