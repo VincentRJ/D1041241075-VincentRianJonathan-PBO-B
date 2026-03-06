@@ -24,12 +24,14 @@ public class LatihanRefleksi {
     System.out.println("");
 
     System.out.println("=== MENGGUNAKAN FOR ===");
-    // pertama kita menginisialisasi nilai i menjadi 1 kemudian menggunakan kondisi i<=5 yang artinya jika kondisinya true maka akan perulangannya akan dijalankan kemudian menambahkan nilai i setiap setalah terjadi perulangan
+    // pertama kita menginisialisasi nilai number menjadi 1 kemudian menggunakan kondisi i<=5 yang artinya jika kondisinya true maka akan perulangannya akan dijalankan kemudian menambahkan nilai i setiap setalah terjadi perulangan
     for(int number = 1; number <= 5; number++){
       System.out.print(number + " ");  // Mencetak hasilnya sebaris dan dipisahkan spasi
     }
   }
 }
+
+// Untuk Kasus ini yang loop yang paling mudah dipahami adalah menggunakan for karena cukup dengan menginisialisasi jumlah perulangan kemudian dicetak sesuai output yang diharapkan kasusnya langsung selsai.
 
 // Nama : Vincent Rian Jonathan
 // NIM : D1041241075
